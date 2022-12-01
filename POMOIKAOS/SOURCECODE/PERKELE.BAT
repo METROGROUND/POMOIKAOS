@@ -17,6 +17,6 @@ echo   EEEEEEEEEEEE
 echo   EEE
 echo   EEE
 echo   EEEEEEEEEEEE
-echo you foud easterr egg
+echo you foud easter egg
 pause
 menu.bat
