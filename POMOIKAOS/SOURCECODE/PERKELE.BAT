@@ -19,4 +19,4 @@ echo   EEE
 echo   EEEEEEEEEEEE
 echo you found an easter egg
 pause
-menu.bat
+MENU.BAT
