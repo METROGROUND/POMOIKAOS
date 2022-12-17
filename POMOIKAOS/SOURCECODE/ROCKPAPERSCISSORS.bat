@@ -53,4 +53,4 @@ echo You win
 pause
 
 del temp.txt
-@REM MENU.BAT
+MENU.BAT
