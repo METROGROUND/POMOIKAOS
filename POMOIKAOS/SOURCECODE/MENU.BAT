@@ -15,4 +15,4 @@ if %menuselect%==2 ROCKPAPERSCISSORS.BAT
 if %menuselect%==3 BROWSER.BAT
 if %menuselect%==4 CALC.BAT
 if %menuselect%==6121917 PERKELE.BAT
-if %menuselect%==2K17 PETYAMISCHA
+if %menuselect%==2K17 PETYAMISCHA.BAT
