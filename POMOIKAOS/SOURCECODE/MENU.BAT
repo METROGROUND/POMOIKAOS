@@ -2,7 +2,7 @@
 cls
 color 07
 echo Welcome
-echo POMOIKAOS V0.02
+echo POMOIKAOS GITHUB
 echo date %date% (no autoupdate)
 echo time %time% (no autoupdate)
 echo Select 1 to the screen test
